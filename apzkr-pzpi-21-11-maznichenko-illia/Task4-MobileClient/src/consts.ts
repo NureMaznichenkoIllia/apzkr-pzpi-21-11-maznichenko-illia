@@ -1,9 +1,0 @@
-export const REACT_APP_API_URL = "https://localhost:5001/";
-export const MAIN_ROUTE = '/'
-export const LINES_ROUTE = '/lines';
-export const PLATFORMS_ROUTE = '/platforms';
-export const SCHEDULE_ROUTE = '/schedule';
-export const STAFFS_ROUTE = '/staffs';
-export const STATIONS_ROUTE = '/stations';
-export const TRAINS_ROUTE = '/trains'
-export const MAP_ROUTE = '/map'
